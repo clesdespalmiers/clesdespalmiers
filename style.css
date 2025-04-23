@@ -123,3 +123,9 @@ footer {
     text-align: center;
     padding: 20px;
 }
+.logo {
+height: 32px;
+margin-right: 12px;
+vertical-align: middle;
+object-fit: contain;
+}
