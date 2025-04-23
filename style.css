@@ -125,7 +125,10 @@ footer {
 }
 .logo {
 height: 50px;
+width: 50px;
+border-radius: 50%; /* arrondi */
+object-fit: cover; /* pour bien remplir le rond */
 margin-right: 15px;
+margin-left: 0; /* collé à gauche */
 vertical-align: middle;
-object-fit: contain;
 }
